@@ -1,5 +1,5 @@
 require('./bootstrap');
-require('alpinejs');
+require('alpinejs'); test 123
 require('jquery-ui-dist/jquery-ui')
 let CKEditor = require('./modules/CKEditor');
 let DocumentRequests = require('./modules/DocumentRequests');

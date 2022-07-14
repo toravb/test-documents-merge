@@ -1,1 +1,1 @@
-{"version":1,"type":"doc","content":[{"type":"expand","attrs":{"title":"1111111"},"content":[{"type":"paragraph","content":[]}]}]}
+{"version":1,"type":"doc","content":[{"type":"expand","attrs":{"title":"1111111"},"content":[{"type":"paragraph","content":[{"type":"text","text":"2222","marks":[{"type":"strong"}]},{"type":"text","text":"22"},{"type":"text","text":"22222","marks":[{"type":"textColor","attrs":{"color":"#4c9aff"}}]}]}]}]}
